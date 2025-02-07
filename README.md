@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Jogendra Singh
+##🚀 Jogendra Singh ##
 AI Consultant | Data Science & Deep Learning Expert | Generative AI Innovator
 "Turning data into actionable intelligence and AI-driven solutions."
 
