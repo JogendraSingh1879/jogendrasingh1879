@@ -1,8 +1,5 @@
-Here's a visually appealing and interactive GitHub profile README with icons and a well-structured layout:
 
----
-
-# 👋 Hello, I'm **Jogendra Singh**  
+## 👋 Hello, I'm **Jogendra Singh**  
 
 🚀 **AI Consultant | Data Science & Deep Learning Expert | Generative AI Innovator**  
 📍 Prayagraj, India  
@@ -111,7 +108,3 @@ Technologies: Python, Prophet
 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogendrasingh1991)  
 💾 **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JogendraSingh1879)  
 📊 **Kaggle**: [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jogendrasingh1879)  
-
----
-
-This interactive and visually appealing profile will make a strong impression on your GitHub visitors. Let me know if you want any further customization! 🚀
