@@ -20,13 +20,21 @@
 ## 🛠️ Technical Skills
 
 Programming Languages: Python
+
 Machine Learning Frameworks: TensorFlow
+
 Data Visualization: Tableau, Power BI
+
 Data Analysis: Advanced Excel, Predictive Modeling
+
 Natural Language Processing (NLP): NLP Techniques
+
 Computer Vision: OpenCV
+
 Cloud Platforms: AWS
+
 Tools: JIRA, Microsoft Visio  
+
 
 ---
 
