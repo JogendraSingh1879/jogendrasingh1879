@@ -28,6 +28,7 @@ Computer Vision: OpenCV
 Cloud Platforms: AWS
 Tools: JIRA, Microsoft Visio  
 
+---
 
 ## 📚 Top 10 Projects  
 
@@ -89,6 +90,7 @@ Retail Demand Forecasting
 Description: Time-series analysis for optimizing inventory management.
 Technologies: Python, Prophet
 
+---
 
 ## 📜 Certifications  
 
@@ -108,3 +110,5 @@ Technologies: Python, Prophet
 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogendrasingh1991)  
 💾 **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JogendraSingh1879)  
 📊 **Kaggle**: [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jogendrasingh1879)  
+
+---
