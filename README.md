@@ -16,7 +16,18 @@
 📈 **9+ years of experience** in Business Development and AI Integration  
 
 ---
+🛠️ Technical Skills
+🔹 Languages:
 
+🔹 Machine Learning:
+
+🔹 Data Visualization:
+
+🔹 Cloud & DevOps:
+
+🔹 Databases:
+
+🔹 Project Management:
 ## 🛠️ Technical Skills
 
 Programming Languages: Python
