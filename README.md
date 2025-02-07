@@ -16,36 +16,24 @@
 📈 **9+ years of experience** in Business Development and AI Integration  
 
 ---
-🛠️ Technical Skills
-🔹 Languages:
 
-🔹 Machine Learning:
-
-🔹 Data Visualization:
-
-🔹 Cloud & DevOps:
-
-🔹 Databases:
-
-🔹 Project Management:
 ## 🛠️ Technical Skills
 
-Programming Languages: Python
+Programming Languages: **Python**
 
-Machine Learning Frameworks: TensorFlow
+Machine Learning Frameworks: **TensorFlow**
 
-Data Visualization: Tableau, Power BI
+Data Visualization: **Tableau, Power BI**
 
-Data Analysis: Advanced Excel, Predictive Modeling
+Data Analysis: **Advanced Excel, Predictive Modeling**
 
-Natural Language Processing (NLP): NLP Techniques
+Natural Language Processing (NLP): **NLP Techniques**
 
-Computer Vision: OpenCV
+Computer Vision: **OpenCV**
 
-Cloud Platforms: AWS
+Cloud Platforms: **AWS**
 
-Tools: JIRA, Microsoft Visio  
-
+Tools: **JIRA, Microsoft Visio**
 
 ---
 
