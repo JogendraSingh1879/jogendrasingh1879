@@ -2,7 +2,7 @@
 ## 👋 Hello, I'm **Jogendra Singh**  
 
 🚀 **AI Consultant | Data Science & Deep Learning Expert | Generative AI Innovator**  
-📍 Prayagraj, India  
+📍 Noida, India  
 
 💡 *"Turning data into actionable intelligence and AI-driven solutions."*
 
