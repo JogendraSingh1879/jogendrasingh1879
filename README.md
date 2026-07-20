@@ -1,120 +1,152 @@
+# Hi there 👋 I'm Jogendra Singh
 
-## 👋 Hello, I'm **Jogendra Singh**  
+Founder of **NikatAI** — India's AI-powered trusted neighbourhood network.
 
-🚀 **AI Consultant | Data Science & Deep Learning Expert | Generative AI Innovator**  
-📍 Noida, India  
+I build AI-powered products that solve practical business problems using Artificial Intelligence, Generative AI, Workflow Automation and Product Thinking.
 
-💡 *"Turning data into actionable intelligence and AI-driven solutions."*
+My background combines:
 
----
+🏦 10+ Years in BFSI
+🤖 AI Business Analysis
+📊 Product Strategy
+⚡ AI Automation
+🧠 Generative AI
+🚀 Startup Building
 
-## 📌 About Me
+Currently building products around:
 
-🎯 **AI/ML Engineer** specializing in **Generative AI, NLP, Computer Vision, and Predictive Modeling**  
-🛠️ Experienced in building **Scalable AI Solutions** using **Python, TensorFlow, and Cloud Technologies**  
-📊 Strong analytical skills with **Power BI, Tableau, and SQL**  
-📈 **9+ years of experience** in Business Development and AI Integration  
-
----
-
-## 🛠️ Technical Skills
-
-Programming Languages: **Python**
-
-Machine Learning Frameworks: **TensorFlow**
-
-Data Visualization: **Tableau, Power BI**
-
-Data Analysis: **Advanced Excel, Predictive Modeling**
-
-Natural Language Processing (NLP): **NLP Techniques**
-
-Computer Vision: **OpenCV**
-
-Cloud Platforms: **AWS**
-
-Tools: **JIRA, Microsoft Visio**
+• AI Agents
+• RAG Applications
+• Hyperlocal AI Platform
+• Workflow Automation
+• Business Intelligence
+• AI-powered Business Tools
 
 ---
 
-## 📚 Top 10 Projects  
+## What I work on
 
-💡 **Showcasing my work in AI, ML, and Data Science**  
+✔ Product Requirement Documents (PRD)
 
-**Agentic AI using PHIDATA**
+✔ Business Requirement Documents (BRD)
 
-Description: A Python-based implementation of a Multi-AI Agent System powered by Google's Gemini model, designed to provide accurate and actionable financial insights.
-Technologies: Python
-Repository [Link](https://github.com/JogendraSingh1879/Agentic-AI--PHIDATA)
+✔ Functional Requirement Documents (FRD)
 
-**Financial Analysis with LLM**
+✔ AI Product Design
 
-Description: Financial Analysis and Sentiment Analysis with Large Language Models for investment portfolio creation.
-Technologies: Jupyter Notebook
-Repository [Link](https://github.com/JogendraSingh1879/Financial-Analysis-with-LLM)
+✔ User Stories
 
-**Image Generation with Stable Diffusion-1.5**
+✔ Acceptance Criteria
 
-Description: Image generation using Stable Diffusion 1.5 with Text-to-Image capabilities.
-Technologies: Jupyter Notebook
-Repository [Link](https://github.com/JogendraSingh1879/Image-Generation-with-Stable-Diffusion-1.5)
+✔ Process Mapping
 
-**Llama ChatBot for CPU**
+✔ UAT
 
-Description: Development of a chatbot optimized for CPU usage using the Llama model.
-Technologies: Python
-Repository [Link](https://github.com/JogendraSingh1879/Llama-ChatBot-for-CPU)
+✔ AI Agents
 
-**Mistral AI Model RAG Langchain-Llamaindex**
+✔ LangChain
 
-Description: Implementation of the Mistral AI Model using Retrieval-Augmented Generation with Langchain and Llamaindex.
-Technologies: Jupyter Notebook
-Repository [Link](https://github.com/JogendraSingh1879/Mistral-AI-Model--RAG-Langchain-Llamaindex)
+✔ RAG
 
-**RAG Model Using OpenAI**
+✔ Prompt Engineering
 
-Description: Development of a Retrieval-Augmented Generation model utilizing OpenAI's API.
-Technologies: Python
-Repository [Link](https://github.com/JogendraSingh1879/RAG-Model-Using-OpenAI)
+✔ OpenAI
 
-**Decision Tree Data-Science**
+✔ Python
 
-Description: A comprehensive project on Decision Trees in Data Science, including implementation and analysis.
-Technologies: Python
-Repository [Link](https://github.com/JogendraSingh1879/Decision-Tree--Data-Science)
+✔ SQL
 
-**AI-Powered Invoice Automation**
+✔ Power BI
 
-Description: Generative AI model for invoice processing and digital workflows.
-Technologies: Python, TensorFlow
+✔ Jira
 
-**Customer Churn Prediction**
-
-Description: Machine Learning model to predict banking customer attrition using PySpark.
-Technologies: Python, Scikit-Learn
-Retail Demand Forecasting
-
-Description: Time-series analysis for optimizing inventory management.
-Technologies: Python, Prophet
+✔ Confluence
 
 ---
 
-## 📜 Certifications  
+## Current Startup
 
-✅ **Six Sigma Yellow Belt**  
-✅ **Data Science Foundation**  
-✅ **AWS Cloud Practitioner**  
-✅ **SQL Basics**  
-✅ **Business Analysis Foundation**  
-✅ **JIRA: Basics Administration**  
-✅ **Scrum: Basics**  
+### 🚀 NikatAI
+
+India's AI-powered trusted neighbourhood network.
+
+Helping residents, RWAs, local businesses and service providers connect through trust, verification and AI.
+
+Features include:
+
+• Verified Residents
+• AI Assistant
+• Marketplace
+• Local Recommendations
+• Community Events
+• Service Providers
+• Trust Score
+• Business Dashboard
+• AI Moderation
 
 ---
 
-## 🔗 Let's Connect!  
+## Current Interests
 
-📧 **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:digitaljogendra10x@gmail.com)  
-💾 **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JogendraSingh1879)  
-📊 **Kaggle**: [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jogendrasingh1879)  
+🤖 Agentic AI
+
+🧠 Large Language Models
+
+📚 Retrieval Augmented Generation (RAG)
+
+⚡ Workflow Automation
+
+📈 AI for Business
+
+🌍 Hyperlocal Technology
+
+🏢 Product Management
+
+📊 Business Analysis
 
 ---
+
+## Open to collaborate on
+
+• AI Startups
+
+• Open Source AI Projects
+
+• RAG Applications
+
+• AI Agents
+
+• LangChain
+
+• MCP
+
+• Product Strategy
+
+• Business Analysis
+
+• Generative AI
+
+---
+
+## Connect with me
+
+📧 digitaljogendra10x@gmail.com
+
+Nikat AI — India's AI-powered trusted neighbourhood network 🌐
+Discover, connect & transact with people you can actually trust.
+
+**🚀 Become an Early User: & 📝 Early Access Form:**
+
+https://forms.gle/pAATxLQcqTsFEdRv9
+
+**Stay connected with NikatAI across all platforms**
+
+📘 Facebook: https://www.facebook.com/profile.php?id=61591941716814
+📸 Instagram: https://www.instagram.com/nikatai4u/
+▶️ YouTube: https://www.youtube.com/@NikatAI4u
+💼 LinkedIn: https://www.linkedin.com/company/nikatai4u/
+💬 WhatsApp Channel: https://whatsapp.com/channel/0029Vb8JyVq7IUYONRDPvE0W
+📢 Arattai Channel: https://aratt.ai/@nikatai4u
+
+🌐 Building:
+NikatAI
