@@ -142,11 +142,17 @@ https://forms.gle/pAATxLQcqTsFEdRv9
 **Stay connected with NikatAI across all platforms**
 
 📘 Facebook: https://www.facebook.com/profile.php?id=61591941716814
+
 📸 Instagram: https://www.instagram.com/nikatai4u/
+
 ▶️ YouTube: https://www.youtube.com/@NikatAI4u
+
 💼 LinkedIn: https://www.linkedin.com/company/nikatai4u/
+
 💬 WhatsApp Channel: https://whatsapp.com/channel/0029Vb8JyVq7IUYONRDPvE0W
+
 📢 Arattai Channel: https://aratt.ai/@nikatai4u
+
 
 🌐 Building:
 NikatAI
